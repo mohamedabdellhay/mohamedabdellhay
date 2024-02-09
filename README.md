@@ -1,4 +1,14 @@
-### Hi 👋 My name is Mohamed Abdellhay
+
+## Hi 👋 My name is **Mohamed Abdellhay**
+### Web Developer and SEO Specialist
+
+>I'm a self-taught developer who loves learning new technologies daily. I'm a Full-Stack Developer but more into Front-end and focus in performance and Compatibility with search engines "SEO".
+
++ 🌍  based in Egypt :egypt:
++ 📧 Contact me at [mohamedabdellhay1@gmail.com](mailto:mohamedabdellhay1@gmail.com)
++ 🧠 focused on Web Performance and SEO
+
+## Skills
 
 <!--
 **mohamedabdellhay/mohamedabdellhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
