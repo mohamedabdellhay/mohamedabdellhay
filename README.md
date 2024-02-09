@@ -9,7 +9,11 @@
 + 🧠 focused on Web Performance and SEO
 
 ## Skills
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript">
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript">
+  <img src="https://stritymo.sirv.com/github/ISO_C%2B%2B_Logo.svg" width="36" alt="C++">
+</div>
+
 <!--
 **mohamedabdellhay/mohamedabdellhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
