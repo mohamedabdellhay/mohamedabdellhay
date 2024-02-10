@@ -10,13 +10,13 @@
 
 ## Skills
 <div style="display: flex;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript"></a>
-  <img src="https://stritymo.sirv.com/github/ISO_C%2B%2B_Logo.svg" width="36" alt="C++">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML 5">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="react">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS 3">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python">
-  <img src="https://stritymo.sirv.com/github/SEO%20three.png" width="36" alt="SEO">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript"></a>
+  <a href="https://cplusplus.com/" ><img src="https://stritymo.sirv.com/github/ISO_C%2B%2B_Logo.svg" width="36" alt="C++"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML 5"> </a>
+  <a href="https://react.dev/" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="react"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS 3"> </a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python"></a>
+  <a href="https://en.wikipedia.org/wiki/Search_engine_optimization"><img src="https://stritymo.sirv.com/github/SEO%20three.png" width="36" alt="SEO"></a>
 </div>
 
 <!--
