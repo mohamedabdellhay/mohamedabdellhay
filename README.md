@@ -1,49 +1,69 @@
+# Hi, I'm Mohamed
 
-## Hi 👋 My name is **Mohamed Abdellhay**
-### Web Developer and SEO Specialist
+### Full-Stack Developer | Web Performance & SEO Specialist
 
->I'm a self-taught developer who loves learning new technologies daily. I'm a Full-Stack Developer but more into Front-end and focus in performance and Compatibility with search engines "SEO".
+---
 
-+ 🌍  based in Egypt :egypt:
-+ 📧 Contact me at [mohamedabdellhay1@gmail.com](mailto:mohamedabdellhay1@gmail.com)
-+ 🧠 focused on Web Performance and SEO
+I am a self-taught developer passionate about creating fast, efficient, and search-engine-optimized web applications. With a strong foundation in both Front-end and Back-end development, I focus on enhancing user experience, performance, and SEO compatibility.
 
-## Skills
+---
 
+### 🌐 Location:
+**Egypt**
 
-+ Javascript
-  <br />
-  JavaScript is a versatile programming language commonly used for web development. [Here are some key points about JavaScript:](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- C++
-  <br /> C++ is a powerful and versatile programming language with a wide range of applications. [Here are some key points about C++:](https://cplusplus.com/)
-- HTML
-  <br />which stands for HyperText Markup Language, is the standard markup language used to create web pages. [Here are some key points about HTML:](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-- react
-  <br />React is a popular JavaScript library for building user interfaces, particularly for web applications. [Here are some key points about React:](https://react.dev/)
-- CSS
-  <br />is a style sheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG or XHTML). [Here are some key points about CSS:](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- Python
-  <br />Python is a high-level, interpreted programming language known for its simplicity and readability. [Here are some key points about Python:](https://www.python.org/)
-- SEO
-  <br/>Search Engine Optimization, is the practice of improving a website's visibility and ranking in search engine results pages (SERPs). [Here are some key points about SEO:](https://en.wikipedia.org/wiki/Search_engine_optimization)
+### 📧 Contact Me:
+- **Email:** [mohamedabdellhay1@gmail.com](mailto:mohamedabdellhay1@gmail.com)
 
+---
 
+### **What I Do:**
+- **Build responsive and SEO-friendly websites** that rank well in search engines and deliver fast loading times.
+- **Optimize performance** for better usability, accessibility, and Core Web Vitals scores.
+- **Collaborate on JavaScript-heavy applications** and tools that leverage React, Redux, and Node.js for seamless interaction.
 
-  ### Skills
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="36" height="36" alt="Threejs" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+## **Key Skills**
+
+### Front-End Development:
+- **HTML5, CSS3, JavaScript, TypeScript**
+- **React.js, Redux, Tailwind CSS, Bootstrap**
+
+### Back-End Development:
+- **Node.js, Express.js**
+
+### Tools & Platforms:
+- **Git, GitHub, Docker, Postman**
+- **Vite, npm, Netlify, Vercel**
+
+### Other Expertise:
+- **Web Performance Optimization** (Core Web Vitals)
+- **Search Engine Optimization (SEO)**
+- **Python scripting and data parsing**
+- **RESTful API development and integration**
+
+---
+
+## **Skill Showcase**
+Here is a quick look at some technologies I’m proficient in:
+
+![Python](https://img.shields.io/badge/python-%23239120.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![SEO](https://img.shields.io/badge/SEO-%23000000.svg?style=for-the-badge&logo=seo&logoColor=#000000)&nbsp;
+
+---
+
+### **Why Choose Me?**
+- Proven track record in developing **optimized, scalable, and SEO-focused solutions.**
+- Passion for **continuous learning** and staying updated on web technologies.
+- Experience building and deploying **cross-platform, responsive web applications.**
+
+Feel free to contact me to discuss collaborations or opportunities in web development and SEO!
 
