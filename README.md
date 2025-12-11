@@ -1,69 +1,76 @@
-# Hi, I'm Mohamed
+# 👋 Hi, I'm Mohamed Elsayed Abdellaziz
 
-### Full-Stack Developer | Web Performance & SEO Specialist
-
----
-
-I am a self-taught developer passionate about creating fast, efficient, and search-engine-optimized web applications. With a strong foundation in both Front-end and Back-end development, I focus on enhancing user experience, performance, and SEO compatibility.
+### ⚙️ Dedicated Backend Developer | Node.js, NestJS, & Laravel Specialist | Full-Stack Architect
 
 ---
 
-### 🌐 Location:
-**Egypt**
+[cite_start]I am a motivated and fast-learning Backend Developer with specialized training from the **Information Technology Institute (ITI)**[cite: 179]. [cite_start]I architect and build robust, scalable APIs using **Node.js (Express/NestJS)** [cite: 263] [cite_start]and **PHP (Laravel)**[cite: 149].
 
-### 📧 Contact Me:
-- **Email:** [mohamedabdellhay1@gmail.com](mailto:mohamedabdellhay1@gmail.com)
+[cite_start]My expertise also includes a strong foundation in **Technical SEO and Web Performance**[cite: 273, 274], ensuring every backend solution I build is optimized for fast data delivery and production reliability.
 
 ---
 
-### **What I Do:**
-- **Build responsive and SEO-friendly websites** that rank well in search engines and deliver fast loading times.
-- **Optimize performance** for better usability, accessibility, and Core Web Vitals scores.
-- **Collaborate on JavaScript-heavy applications** and tools that leverage React, Redux, and Node.js for seamless interaction.
+## 🛠️ My Backend & Full-Stack Tech Stack
+
+| Category        | Key Technologies                                                            |
+| :-------------- | :-------------------------------------------------------------------------- |
+| **Backend**     | [cite_start]**Node.js, NestJS, Express.js, Laravel (PHP)** [cite: 263, 149] |
+| **Databases**   | [cite_start]**PostgreSQL, MongoDB, MySQL** [cite: 264, 150]                 |
+| **Languages**   | [cite_start]**JavaScript (ES6+), TypeScript, PHP, SQL** [cite: 263, 148]    |
+| **API & Tools** | [cite_start]**RESTful APIs, JWT Authentication, Postman** [cite: 263, 267]  |
+| **DevOps**      | [cite_start]**Docker**, Git/GitHub, Linux [cite: 266]                       |
+| **Frontend**    | [cite_start]React, Angular (Basics for integration) [cite: 265]             |
 
 ---
 
-## **Key Skills**
+## 🚀 Featured Backend Projects
 
-### Front-End Development:
-- **HTML5, CSS3, JavaScript, TypeScript**
-- **React.js, Redux, Tailwind CSS, Bootstrap**
+These projects demonstrate my commitment to scalable architecture and secure API design:
 
-### Back-End Development:
-- **Node.js, Express.js**
+### 1. NestJS E-commerce API (TypeScript Focus)
 
-### Tools & Platforms:
-- **Git, GitHub, Docker, Postman**
-- **Vite, npm, Netlify, Vercel**
+> Implemented a robust RESTful API with product, order, and user management.
 
-### Other Expertise:
-- **Web Performance Optimization** (Core Web Vitals)
-- **Search Engine Optimization (SEO)**
-- **Python scripting and data parsing**
-- **RESTful API development and integration**
+- **Focus:** Used Nest.JS for modular, structured architecture, integrated PostgreSQL for persistence, and secured access with JWT and role-based control.
+- [cite_start]**Technologies:** Nest.JS, PostgreSQL, JWT. [cite: 247, 248]
+- **GitHub Repository:** [Link to your nestjs-ecommerce-app repo]
 
----
+### 2. Laravel E-commerce API (PHP Focus)
 
-## **Skill Showcase**
-Here is a quick look at some technologies I’m proficient in:
+> Developed a RESTful API for products, orders, and user authentication.
 
-![Python](https://img.shields.io/badge/python-%23239120.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![SEO](https://img.shields.io/badge/SEO-%23000000.svg?style=for-the-badge&logo=seo&logoColor=#000000)&nbsp;
+- **Focus:** Leveraged Laravel's powerful ecosystem (Eloquent ORM, Migrations) and implemented role-based access control.
+- [cite_start]**Technologies:** Laravel, MySQL. [cite: 139, 140]
+- **GitHub Repository:** [Link to your laravel-ecommerce-api repo]
+
+### 3. Express Todo API (Node.js/MongoDB Focus)
+
+> Built a simple REST API with full CRUD functionality for managing tasks.
+
+- **Focus:** Utilized Node.js and Express for lightweight server development and MongoDB for flexible data persistence.
+- [cite_start]**Technologies:** Node.js, Express, MongoDB. [cite: 249, 250]
+- **GitHub Repository:** [Link to your todo-express-api repo]
 
 ---
 
-### **Why Choose Me?**
-- Proven track record in developing **optimized, scalable, and SEO-focused solutions.**
-- Passion for **continuous learning** and staying updated on web technologies.
-- Experience building and deploying **cross-platform, responsive web applications.**
+## Professional Edge
 
-Feel free to contact me to discuss collaborations or opportunities in web development and SEO!
+### Web Performance & SEO
 
+- **Optimization:** Build APIs and systems optimized for high performance and fast data delivery.
+- [cite_start]**Technical SEO Leadership:** Former **SEO Team Leader at Elghazawy.com** [cite: 273][cite_start], skilled in improving search visibility and leading advanced search system development[cite: 274].
+
+### Leadership & Clean Code
+
+- [cite_start]**Mentorship:** Guided teammates on clean code practices and task structuring during project execution[cite: 276].
+- [cite_start]**Collaboration:** Experience collaborating on complex web development projects, ensuring organized and maintained GitHub repositories[cite: 271].
+
+---
+
+## 📬 Connect with Me
+
+| Contact               | Details                                                                                                  |
+| :-------------------- | :------------------------------------------------------------------------------------------------------- |
+| [cite_start]**Email** | mohamedabdellhay1@gmail.com [cite: 225]                                                                  |
+| **LinkedIn**          | [cite_start][linkedin.com/in/mohamedabdellhay](https://www.linkedin.com/in/mohamedabdellhay) [cite: 226] |
+| **Location**          | [cite_start]Zagazig, Egypt (Open to Relocate) [cite: 223]                                                |
