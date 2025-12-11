@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mohamed Elsayed Abdellaziz
+# Hi, I'm Mohamed Elsayed Abdellhay
 
-### ⚙️ Dedicated Backend Developer | Node.js, NestJS, & Laravel Specialist | Full-Stack Architect
+### Dedicated Backend Developer | Node.js, NestJS, & Laravel Specialist | Full-Stack Architect
 
 ---
 
@@ -10,7 +10,7 @@ My expertise also includes a strong foundation in **Technical SEO and Web Perfor
 
 ---
 
-## 🛠️ My Backend & Full-Stack Tech Stack
+## My Backend & Full-Stack Tech Stack
 
 | Category                   | Key Technologies                                      |
 | :------------------------- | :---------------------------------------------------- |
@@ -23,7 +23,7 @@ My expertise also includes a strong foundation in **Technical SEO and Web Perfor
 
 ---
 
-## 🚀 Featured Backend Projects
+## Featured Backend Projects
 
 These projects demonstrate my commitment to scalable architecture and secure API design:
 
@@ -53,7 +53,7 @@ These projects demonstrate my commitment to scalable architecture and secure API
 
 ---
 
-## 📈 Professional Edge
+## Professional Edge
 
 ### Web Performance & Technical SEO Leadership
 
@@ -67,7 +67,7 @@ These projects demonstrate my commitment to scalable architecture and secure API
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 | Contact      | Details                                                                          |
 | :----------- | :------------------------------------------------------------------------------- |
