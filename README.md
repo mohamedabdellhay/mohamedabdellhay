@@ -4,22 +4,22 @@
 
 ---
 
-[cite_start]I am a motivated and fast-learning Backend Developer with specialized training from the **Information Technology Institute (ITI)**[cite: 179]. [cite_start]I architect and build robust, scalable APIs using **Node.js (Express/NestJS)** [cite: 263] [cite_start]and **PHP (Laravel)**[cite: 149].
+I am a motivated and fast-learning Backend Developer with specialized training from the **Information Technology Institute (ITI)**. I architect and build robust, scalable APIs using **Node.js (Express/NestJS)** and **PHP (Laravel)**.
 
-[cite_start]My expertise also includes a strong foundation in **Technical SEO and Web Performance**[cite: 273, 274], ensuring every backend solution I build is optimized for fast data delivery and production reliability.
+My expertise also includes a strong foundation in **Technical SEO and Web Performance**, ensuring every backend solution I build is optimized for fast data delivery and production reliability. I am currently open to relocation.
 
 ---
 
 ## 🛠️ My Backend & Full-Stack Tech Stack
 
-| Category        | Key Technologies                                                            |
-| :-------------- | :-------------------------------------------------------------------------- |
-| **Backend**     | [cite_start]**Node.js, NestJS, Express.js, Laravel (PHP)** [cite: 263, 149] |
-| **Databases**   | [cite_start]**PostgreSQL, MongoDB, MySQL** [cite: 264, 150]                 |
-| **Languages**   | [cite_start]**JavaScript (ES6+), TypeScript, PHP, SQL** [cite: 263, 148]    |
-| **API & Tools** | [cite_start]**RESTful APIs, JWT Authentication, Postman** [cite: 263, 267]  |
-| **DevOps**      | [cite_start]**Docker**, Git/GitHub, Linux [cite: 266]                       |
-| **Frontend**    | [cite_start]React, Angular (Basics for integration) [cite: 265]             |
+| Category                   | Key Technologies                                      |
+| :------------------------- | :---------------------------------------------------- |
+| **Backend**                | **Node.js, NestJS, Express.js, Laravel (PHP)**        |
+| **Databases**              | **PostgreSQL, MongoDB, MySQL**                        |
+| **Languages**              | **JavaScript (ES6+), TypeScript, PHP, SQL**           |
+| **API & Tools**            | **RESTful APIs, JWT Authentication, Docker, Postman** |
+| **DevOps**                 | **Docker**, Git/GitHub, Linux                         |
+| **Frontend (Familiarity)** | React, Angular, Next.js                               |
 
 ---
 
@@ -29,48 +29,63 @@ These projects demonstrate my commitment to scalable architecture and secure API
 
 ### 1. NestJS E-commerce API (TypeScript Focus)
 
-> Implemented a robust RESTful API with product, order, and user management.
+> Architected a robust RESTful API with product, order, and user management.
 
-- **Focus:** Used Nest.JS for modular, structured architecture, integrated PostgreSQL for persistence, and secured access with JWT and role-based control.
-- [cite_start]**Technologies:** Nest.JS, PostgreSQL, JWT. [cite: 247, 248]
-- **GitHub Repository:** [Link to your nestjs-ecommerce-app repo]
+- **Focus:** Used Nest.JS for a modular, structured architecture, integrated **PostgreSQL** for persistence, and secured access with **JWT** and role-based control.
+- **Technologies:** Nest.JS, TypeScript, PostgreSQL.
+- **GitHub Repository:** [NestJS-E-commerce-API](https://github.com/mohamedabdellhay/nestjs-ecommerce-api) _(Please update this link)_
 
-### 2. Laravel E-commerce API (PHP Focus)
+### 2. Laravel Blog Application (PHP Focus)
 
-> Developed a RESTful API for products, orders, and user authentication.
+> Developed a full-featured blogging platform with CRUD operations and user authentication.
 
-- **Focus:** Leveraged Laravel's powerful ecosystem (Eloquent ORM, Migrations) and implemented role-based access control.
-- [cite_start]**Technologies:** Laravel, MySQL. [cite: 139, 140]
-- **GitHub Repository:** [Link to your laravel-ecommerce-api repo]
+- **Focus:** Leveraged Laravel's powerful ecosystem, utilized **Eloquent ORM** and migrations, and implemented user roles.
+- **Technologies:** Laravel, PHP, MySQL.
+- **GitHub Repository:** [laravel-blog](https://github.com/mohamedabdellhay/laravel-blog) _(Based on your CV, please confirm link)_
 
 ### 3. Express Todo API (Node.js/MongoDB Focus)
 
 > Built a simple REST API with full CRUD functionality for managing tasks.
 
-- **Focus:** Utilized Node.js and Express for lightweight server development and MongoDB for flexible data persistence.
-- [cite_start]**Technologies:** Node.js, Express, MongoDB. [cite: 249, 250]
-- **GitHub Repository:** [Link to your todo-express-api repo]
+- **Focus:** Utilized Node.js and Express for lightweight server development and handled data persistence with **MongoDB**.
+- **Technologies:** Node.js, Express, MongoDB.
+- **GitHub Repository:** [Express-Todo-API](https://github.com/mohamedabdellhay/express-todo-api) _(Please update this link)_
 
 ---
 
-## Professional Edge
+## 📈 Professional Edge
 
-### Web Performance & SEO
+### Web Performance & Technical SEO Leadership
 
-- **Optimization:** Build APIs and systems optimized for high performance and fast data delivery.
-- [cite_start]**Technical SEO Leadership:** Former **SEO Team Leader at Elghazawy.com** [cite: 273][cite_start], skilled in improving search visibility and leading advanced search system development[cite: 274].
+- **Optimization:** Experienced in improving website structure, performance, and indexing through technical optimization and targeting **Core Web Vitals**.
+- **Technical SEO Leadership:** Former SEO Team Leader at Elghazawy.com, skilled in enhancing search visibility and leading the development of advanced keyword-based search systems.
 
 ### Leadership & Clean Code
 
-- [cite_start]**Mentorship:** Guided teammates on clean code practices and task structuring during project execution[cite: 276].
-- [cite_start]**Collaboration:** Experience collaborating on complex web development projects, ensuring organized and maintained GitHub repositories[cite: 271].
+- **Mentorship:** Provided guidance to teammates on clean code practices, task structuring, and problem-solving.
+- **Collaboration:** Led and collaborated on multiple web development projects (MERN, Laravel, Node.js), ensuring clean code and organized GitHub repositories.
 
 ---
 
 ## 📬 Connect with Me
 
-| Contact               | Details                                                                                                  |
-| :-------------------- | :------------------------------------------------------------------------------------------------------- |
-| [cite_start]**Email** | mohamedabdellhay1@gmail.com [cite: 225]                                                                  |
-| **LinkedIn**          | [cite_start][linkedin.com/in/mohamedabdellhay](https://www.linkedin.com/in/mohamedabdellhay) [cite: 226] |
-| **Location**          | [cite_start]Zagazig, Egypt (Open to Relocate) [cite: 223]                                                |
+| Contact      | Details                                                                          |
+| :----------- | :------------------------------------------------------------------------------- |
+| **Email**    | mohamedabdellhay1@gmail.com                                                      |
+| **GitHub**   | [github.com/mohamedabdellhay](https://github.com/mohamedabdellhay)               |
+| **LinkedIn** | [linkedin.com/in/mohamedabdellhay](https://www.linkedin.com/in/mohamedabdellhay) |
+| **Phone**    | +20 155 080 9074                                                                 |
+| **Location** | Zagazig, Egypt (Open to Relocate)                                                |
+
+---
+
+### Skill Showcase
+
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![SEO](https://img.shields.io/badge/SEO-Optimization-%231F75FE.svg?style=for-the-badge&logo=googlesearchconsole&logoColor=white)&nbsp;
